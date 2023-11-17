@@ -194,7 +194,6 @@ background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
   -moz-transform: rotateX(-90deg);
   transform: rotateX(-90deg);
 }
-
 #Delete{
   padding: 10px;
   color: black;
@@ -203,7 +202,6 @@ background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
   cursor: pointer;
   border: none;
 }
-
 #Modify{
   padding: 10px;
   color: black;
@@ -212,9 +210,6 @@ background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
   cursor: pointer;
   border: none;
 }
-
-
-
 #window{
   background-color: #fff;
   width: 400PX;
@@ -225,20 +220,16 @@ background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
   border: 1px solid rgba(0,0,0,.2);
 border-radius: 6px;
 }
-
 #window li{
   list-style: none;
   padding-bottom: 8px;
 }
-
 #window ul{
   padding-left: 70px;
   padding-top: 9px;
   line-height: 24px;
 }
-
 #btn{
- 
 outline: none;
 cursor: pointer;
 position: absolute;
@@ -248,13 +239,11 @@ font-weight: 400;
 width: 61px;
 height: 27px;
 }
-
 .p-window{
   color: blue;
   border-bottom: 1px solid #e5e5e5;
   padding-bottom: 18px;
 }
-
 .close{
   position: absolute;
 top: 7px;
